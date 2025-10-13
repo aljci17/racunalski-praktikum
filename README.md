@@ -1,2 +1,2 @@
 # Računalniški praktikum
-pwd-absolutna pot, kje v datoteki si, ls-kje v imeniku se trenutno nahajaš, cd-premikanje po besedilu
+Izberi vse: Ctrl+A  Preklaplanje med okni: Alt+Tab  Odpiranje novega zavihka: Ctrl+T
