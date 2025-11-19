@@ -5,3 +5,5 @@ Izberi vse: Ctrl+A  Preklaplanje med okni: Alt+Tab  Odpiranje novega zavihka: Ct
 .docx je Microsoft Word dokument,
 
 .txt je datoteka z navadnim besedilom.
+https://racunalniski-praktikum.github.io/00-uvod.html
+
